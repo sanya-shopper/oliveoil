@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 230" role="img" aria-label="Dark glass bottle">
+  <rect x="50" y="8" width="20" height="16" rx="2" fill="#5d574a"/>
+  <rect x="53" y="24" width="14" height="22" fill="#3f4a2a"/>
+  <path d="M38 74 C 38 56 53 48 60 48 C 67 48 82 56 82 74 L82 206 C82 214 76 220 68 220 L52 220 C44 220 38 214 38 206 Z" fill="#33401f" stroke="#26301a" stroke-width="3"/>
+  <path d="M42 70 C 44 60 52 55 56 54 L56 120 L44 120 Z" fill="#4a5d29" opacity=".6"/>
+  <rect x="44" y="118" width="32" height="74" rx="2" fill="#efe7d3"/>
+  <rect x="50" y="130" width="20" height="4" rx="2" fill="#9c4526"/>
+  <rect x="50" y="141" width="20" height="3" rx="1.5" fill="#4a5d29"/>
+  <g fill="none" stroke="#6b8038" stroke-width="1.6" stroke-linecap="round">
+    <path d="M54 158 C 58 154 62 154 66 158"/>
+  </g>
+  <ellipse cx="60" cy="170" rx="4" ry="5.4" fill="#c69a3f"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 230" role="img" aria-label="Tall designer bottle">
+  <rect x="52" y="6" width="16" height="20" rx="2" fill="#c69a3f"/>
+  <rect x="54" y="26" width="12" height="16" fill="#8a9557"/>
+  <path d="M42 58 C 42 48 48 44 60 44 C 72 44 78 48 78 58 L78 210 C78 216 74 220 68 220 L52 220 C46 220 42 216 42 210 Z" fill="#e7ecd6" stroke="#33401f" stroke-width="3"/>
+  <path d="M45 150 L75 150 L75 209 C75 215 71 217 68 217 L52 217 C49 217 45 215 45 209 Z" fill="#bda640"/>
+  <rect x="45" y="70" width="30" height="70" rx="2" fill="#4a5d29"/>
+  <rect x="52" y="86" width="16" height="4" rx="2" fill="#e5cf94"/>
+  <rect x="52" y="98" width="16" height="3" rx="1.5" fill="#e5cf94"/>
+  <circle cx="60" cy="120" r="7" fill="none" stroke="#e5cf94" stroke-width="2"/>
+</svg>
