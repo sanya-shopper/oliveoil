@@ -41,8 +41,8 @@ lives in exactly one place — `js/analytics.js` — which every page includes.
 To turn it on: paste your GA4 Measurement ID (`G-XXXXXXXXXX`, from Analytics →
 Admin → Data streams → your web stream) into that file, commit, and push.
 Until then the script makes no external request and the site stays fully
-self-contained. It also honors the browser's "Do Not Track" signal (a block
-you can delete if you'd rather count everyone).
+self-contained. It counts **all** visitors, including the site owner ("Do Not
+Track" is not honored — see the note in `js/analytics.js` to change that).
 
 ## Repo layout
 

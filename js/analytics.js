@@ -17,9 +17,8 @@
    Privacy notes (this is the only third-party call on the whole site):
      - While the ID is left as the placeholder, this script does NOTHING and
        makes no external request — the site stays fully self-contained.
-     - It honors the browser's "Do Not Track" signal and skips loading for
-       those visitors. If you'd rather count everyone (incl. yourself when your
-       browser has DNT on), delete the DNT block marked below.
+     - It counts ALL visitors, including the site owner ("Do Not Track" is not
+       honored, by choice). See the note by the config line to change that.
      - GA4 does not log full IP addresses; IP anonymization is the default.
 
    Last updated: 2026-07-23 (Pacific)
@@ -33,10 +32,9 @@
   // Not configured yet → stay off, make no external request.
   if (!GA_MEASUREMENT_ID || GA_MEASUREMENT_ID === "G-XXXXXXXXXX") { return; }
 
-  // --- Do Not Track: remove this block to count every visitor ---
-  var dnt = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
-  if (dnt === "1" || dnt === "yes") { return; }
-  // --- end Do Not Track block ---
+  // Note: "Do Not Track" is intentionally NOT honored — every visitor is
+  // counted, including the site owner. To go back to skipping DNT visitors,
+  // re-add a guard here that returns early when navigator.doNotTrack === "1".
 
   // Load the official gtag.js library.
   var s = document.createElement("script");
