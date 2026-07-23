@@ -28,7 +28,7 @@
   "use strict";
 
   /* ---- set your GA4 Measurement ID here (looks like G-XXXXXXXXXX) ---- */
-  var GA_MEASUREMENT_ID = "G-XXXXXXXXXX";
+  var GA_MEASUREMENT_ID = "G-10E9K3M38P";
 
   // Not configured yet → stay off, make no external request.
   if (!GA_MEASUREMENT_ID || GA_MEASUREMENT_ID === "G-XXXXXXXXXX") { return; }
