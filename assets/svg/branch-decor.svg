@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none" role="presentation">
+  <g stroke="#a9bd77" stroke-width="3" stroke-linecap="round">
+    <path d="M40 40 C 120 90, 200 150, 330 320"/>
+    <path d="M95 82 C 70 70, 48 74, 34 96 C 62 100, 84 96, 95 82"/>
+    <path d="M110 92 C 122 66, 118 44, 96 30 C 88 58, 92 80, 110 92"/>
+    <path d="M150 122 C 124 112, 102 118, 90 140 C 118 142, 140 136, 150 122"/>
+    <path d="M165 132 C 178 106, 174 84, 152 70 C 144 98, 148 120, 165 132"/>
+    <path d="M205 165 C 179 155, 157 161, 145 183 C 173 185, 195 179, 205 165"/>
+    <path d="M222 178 C 235 152, 231 130, 209 116 C 201 144, 205 166, 222 178"/>
+    <path d="M262 212 C 236 202, 214 208, 202 230 C 230 232, 252 226, 262 212"/>
+  </g>
+  <g fill="#c69a3f">
+    <ellipse cx="128" cy="70" rx="12" ry="16" transform="rotate(35 128 70)"/>
+    <ellipse cx="184" cy="112" rx="12" ry="16" transform="rotate(35 184 112)"/>
+    <ellipse cx="243" cy="158" rx="12" ry="16" transform="rotate(35 243 158)"/>
+    <ellipse cx="292" cy="238" rx="11" ry="15" transform="rotate(35 292 238)"/>
+  </g>
+</svg>

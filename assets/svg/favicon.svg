@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Olive branch">
+  <rect width="64" height="64" rx="14" fill="#33401f"/>
+  <g fill="none" stroke="#a9bd77" stroke-width="2.4" stroke-linecap="round">
+    <path d="M18 46 C 26 38, 34 30, 46 20"/>
+    <path d="M30 34 C 27 29, 27 25, 31 21"/>
+    <path d="M37 27 C 35 22, 36 18, 40 15"/>
+  </g>
+  <g fill="#c69a3f">
+    <ellipse cx="45" cy="19" rx="5" ry="6.4" transform="rotate(28 45 19)"/>
+    <ellipse cx="34" cy="27" rx="4.4" ry="5.8" transform="rotate(28 34 27)"/>
+  </g>
+  <g fill="#6b8038">
+    <path d="M31 21 C 27 20, 24 22, 22 26 C 26 26, 29 25, 31 21 Z"/>
+    <path d="M40 15 C 36 14, 33 16, 31 20 C 35 20, 38 19, 40 15 Z"/>
+  </g>
+</svg>
