@@ -34,6 +34,16 @@ Live site: **https://sanya-shopper.github.io/oliveoil/**
   license, source URL, and checksums are in `assets/photos/CREDITS.md`.
 - The olive-branch mark and decorative branch are original SVGs.
 
+## Analytics
+
+Google Analytics 4 is wired in but **off by default**. The Measurement ID
+lives in exactly one place — `js/analytics.js` — which every page includes.
+To turn it on: paste your GA4 Measurement ID (`G-XXXXXXXXXX`, from Analytics →
+Admin → Data streams → your web stream) into that file, commit, and push.
+Until then the script makes no external request and the site stays fully
+self-contained. It also honors the browser's "Do Not Track" signal (a block
+you can delete if you'd rather count everyone).
+
 ## Repo layout
 
 ```
