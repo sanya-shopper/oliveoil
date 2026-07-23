@@ -303,8 +303,7 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
 .site-foot li { margin:.4em 0; }
 .foot-brand { display:flex; align-items:center; gap:.6rem; color:#fff; font-weight:700; font-size:1.1rem; margin-bottom:.7rem; }
 .foot-brand .mark { width:30px; height:30px; }
-.foot-bottom { border-top:1px solid rgba(255,255,255,.14); padding-top:1.4rem; display:flex; justify-content:space-between; gap:1rem; flex-wrap:wrap; font-size:.8rem; color:#9c9madjust; }
-.foot-bottom { color:#a49c82; }
+.foot-bottom { border-top:1px solid rgba(255,255,255,.14); padding-top:1.4rem; display:flex; justify-content:space-between; gap:1rem; flex-wrap:wrap; font-size:.8rem; color:#a49c82; }
 
 /* --------------------------------------------------------------- utilities */
 .center { text-align: center; }
