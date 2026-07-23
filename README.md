@@ -21,6 +21,7 @@ Live site: **https://sanya-shopper.github.io/oliveoil/**
 | `bottling.html` | FDA registration, NY Article 20-C license, labeling, dark glass |
 | `marketing.html` | Channels, distributor fees, tasting rooms, DTC, marketing angles |
 | `players.html` | Cobram/COR, Graza, estate artisans, big importers |
+| `sellers.html` | Real small/mom-and-pop sellers — NY tasting rooms + nationwide grower-mills & DTC micro-brands |
 | `resources.html` | Full bibliography grouped by topic + method & photo credits |
 
 ## Design & tech
